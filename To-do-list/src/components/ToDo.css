@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(39, 30, 30);
+}
+
+#but{
+    background-color: rgb(227, 239, 250);
+    color: black;
+    margin-left: 2vw;
+    height: auto;
+    width: auto;
+    font-size: smaller;
+}
+
+input{
+    width: 20vw;
+}
+
+input::placeholder{
+    text-align: center;
+    font-weight: bolder;
+}
+
+p{
+    font-weight: bolder;
+}
